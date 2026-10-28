@@ -1,0 +1,435 @@
+{
+ "path": "D:\\Dev\\Darksiders 2 Modkit\\Game\\Darksiders II Deathinitive Edition\\media\\media.upak",
+ "file_size": 7146668032,
+ "version": 0,
+ "streaming": 0,
+ "object_a_offset": 30,
+ "object_a_size": 1353,
+ "buffer_b_offset": 1383,
+ "buffer_b_size": 652,
+ "table_c_offset": 2048,
+ "group_count": 7,
+ "entry_count": 30,
+ "blob_size": 440,
+ "max_name_len": 27,
+ "groups": [
+  {
+   "index": 1,
+   "count": 1,
+   "hash_off": 56,
+   "u16_off": 320,
+   "flags": [
+    5
+   ]
+  },
+  {
+   "index": 2,
+   "count": 1,
+   "hash_off": 64,
+   "u16_off": 324,
+   "flags": [
+    4
+   ]
+  },
+  {
+   "index": 5,
+   "count": 3,
+   "hash_off": 72,
+   "u16_off": 328,
+   "flags": [
+    2,
+    2,
+    2
+   ]
+  },
+  {
+   "index": 6,
+   "count": 20,
+   "hash_off": 96,
+   "u16_off": 340,
+   "flags": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "index": 7,
+   "count": 3,
+   "hash_off": 256,
+   "u16_off": 420,
+   "flags": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "index": 9,
+   "count": 1,
+   "hash_off": 280,
+   "u16_off": 432,
+   "flags": [
+    6
+   ]
+  },
+  {
+   "index": 20,
+   "count": 1,
+   "hash_off": 288,
+   "u16_off": 436,
+   "flags": [
+    3
+   ]
+  }
+ ],
+ "entries": [
+  {
+   "group": 0,
+   "index": 0,
+   "flag": 5,
+   "offset": 1544092,
+   "hash": 13081607070928088619,
+   "u16a": 1,
+   "u16b": 0,
+   "name": "attachmenterror",
+   "name_hash": 13081607070928088619
+  },
+  {
+   "group": 1,
+   "index": 1,
+   "flag": 4,
+   "offset": 4260158072,
+   "hash": 13081607070928088619,
+   "u16a": 1,
+   "u16b": 1,
+   "name": "attachmenterror",
+   "name_hash": 13081607070928088619
+  },
+  {
+   "group": 2,
+   "index": 2,
+   "flag": 2,
+   "offset": 1264950281,
+   "hash": 13081607070928088619,
+   "u16a": 3,
+   "u16b": 2,
+   "name": "AttachmentError",
+   "name_hash": 15673499379083324482
+  },
+  {
+   "group": 2,
+   "index": 3,
+   "flag": 2,
+   "offset": 3599470686,
+   "hash": 14748880007556591039,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "FadeSceneManager",
+   "name_hash": 9853524020007813400
+  },
+  {
+   "group": 2,
+   "index": 4,
+   "flag": 2,
+   "offset": 2258352617,
+   "hash": 16728871148934647947,
+   "u16a": 1,
+   "u16b": 5,
+   "name": "white",
+   "name_hash": 16728871148934647947
+  },
+  {
+   "group": 3,
+   "index": 5,
+   "flag": 1,
+   "offset": 1161838702,
+   "hash": 999709339198556547,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Blue_Dissolve_Ramp",
+   "name_hash": 15394687608330791644
+  },
+  {
+   "group": 3,
+   "index": 6,
+   "flag": 1,
+   "offset": 1292676868,
+   "hash": 1569084262895875281,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "SkyDiffuse",
+   "name_hash": 3585579939538487076
+  },
+  {
+   "group": 3,
+   "index": 7,
+   "flag": 1,
+   "offset": 3128488975,
+   "hash": 3763266813324930543,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "refsan9_sheet0",
+   "name_hash": 3763266813324930543
+  },
+  {
+   "group": 3,
+   "index": 8,
+   "flag": 1,
+   "offset": 2859846907,
+   "hash": 4807159346450146907,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "SkySpecular",
+   "name_hash": 15237741575641941780
+  },
+  {
+   "group": 3,
+   "index": 9,
+   "flag": 1,
+   "offset": 3885669610,
+   "hash": 8520688982636345780,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "DefaultSpotTexture",
+   "name_hash": 12372229200790960231
+  },
+  {
+   "group": 3,
+   "index": 10,
+   "flag": 1,
+   "offset": 3878368049,
+   "hash": 8526865109055683618,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Arial12_sheet0",
+   "name_hash": 13685716216421953821
+  },
+  {
+   "group": 3,
+   "index": 11,
+   "flag": 1,
+   "offset": 2045193017,
+   "hash": 9433899431139492456,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "MA_plantertree_deadbranch01",
+   "name_hash": 9485598017280186373
+  },
+  {
+   "group": 3,
+   "index": 12,
+   "flag": 1,
+   "offset": 1941763032,
+   "hash": 9989174972016323081,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "black",
+   "name_hash": 9989174972016323081
+  },
+  {
+   "group": 3,
+   "index": 13,
+   "flag": 1,
+   "offset": 2293561772,
+   "hash": 11434923633144523206,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Detail_norm",
+   "name_hash": 12419390214449057650
+  },
+  {
+   "group": 3,
+   "index": 14,
+   "flag": 1,
+   "offset": 4163853986,
+   "hash": 11959445146126449385,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Generic_Dissolve_Ramp",
+   "name_hash": 6727048780902759717
+  },
+  {
+   "group": 3,
+   "index": 15,
+   "flag": 1,
+   "offset": 585389059,
+   "hash": 12490145130233553336,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "checker",
+   "name_hash": 12490145130233553336
+  },
+  {
+   "group": 3,
+   "index": 16,
+   "flag": 1,
+   "offset": 671654562,
+   "hash": 12697170964970928288,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "vfx_diff_black",
+   "name_hash": 12697170964970928288
+  },
+  {
+   "group": 3,
+   "index": 17,
+   "flag": 1,
+   "offset": 1843903530,
+   "hash": 15067510395374780887,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Exocet40_sheet0",
+   "name_hash": 17762905811970231646
+  },
+  {
+   "group": 3,
+   "index": 18,
+   "flag": 1,
+   "offset": 2215634823,
+   "hash": 15146529720075277103,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "flat_norm",
+   "name_hash": 15146529720075277103
+  },
+  {
+   "group": 3,
+   "index": 19,
+   "flag": 1,
+   "offset": 581685163,
+   "hash": 15498879043265064143,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "TerrainBrushTexture",
+   "name_hash": 13041436875892251312
+  },
+  {
+   "group": 3,
+   "index": 20,
+   "flag": 1,
+   "offset": 67397470,
+   "hash": 16422699594044086239,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Ray_Cookie",
+   "name_hash": 3127373381165419189
+  },
+  {
+   "group": 3,
+   "index": 21,
+   "flag": 1,
+   "offset": 361494033,
+   "hash": 16728871148934647947,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "white",
+   "name_hash": 16728871148934647947
+  },
+  {
+   "group": 3,
+   "index": 22,
+   "flag": 1,
+   "offset": 4263657443,
+   "hash": 17652916112699729648,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "vfx_diff_grey",
+   "name_hash": 17652916112699729648
+  },
+  {
+   "group": 3,
+   "index": 23,
+   "flag": 1,
+   "offset": 3671468817,
+   "hash": 18138414285849231531,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Generic_Dissolve_Pattern",
+   "name_hash": 14252343793181287679
+  },
+  {
+   "group": 3,
+   "index": 24,
+   "flag": 1,
+   "offset": 4020939579,
+   "hash": 18140444437439124364,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "vfx_diff_norm",
+   "name_hash": 18140444437439124364
+  },
+  {
+   "group": 4,
+   "index": 25,
+   "flag": 0,
+   "offset": 1312713451,
+   "hash": 10683320332118846876,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Arial12",
+   "name_hash": 17606431120577321549
+  },
+  {
+   "group": 4,
+   "index": 26,
+   "flag": 0,
+   "offset": 3048176526,
+   "hash": 16576650626794401786,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "refsan9",
+   "name_hash": 16576650626794401786
+  },
+  {
+   "group": 4,
+   "index": 27,
+   "flag": 0,
+   "offset": 3311546302,
+   "hash": 17344157222669131655,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Exocet40",
+   "name_hash": 6023696697032202364
+  },
+  {
+   "group": 5,
+   "index": 28,
+   "flag": 6,
+   "offset": 3945479002,
+   "hash": 4484222779611459892,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "Init",
+   "name_hash": 14908859773301059916
+  },
+  {
+   "group": 6,
+   "index": 29,
+   "flag": 3,
+   "offset": 3205744088,
+   "hash": 8365135689723912629,
+   "u16a": 0,
+   "u16b": 0,
+   "name": "base",
+   "name_hash": 8365135689723912629
+  }
+ ]
+}

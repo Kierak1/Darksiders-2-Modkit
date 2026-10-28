@@ -1,0 +1,9 @@
+name = "cj over death (textures)"
+
+[[asset]]
+asset = "characters/death"
+file = "payloads/death_cj.obpk"
+
+[[asset]]
+asset = "items/armor"
+file = "payloads/armor_cj.obpk"

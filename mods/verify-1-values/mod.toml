@@ -1,0 +1,389 @@
+name = "verify 1: value patches"
+
+# Player level table: level 1..40 -> huge health, 1 XP to level.
+[[patch]]
+entry = "Char_Death"
+property = "Data[1].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[1].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[2].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[2].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[3].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[3].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[4].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[4].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[5].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[5].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[6].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[6].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[7].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[7].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[8].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[8].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[9].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[9].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[10].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[10].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[11].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[11].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[12].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[12].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[13].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[13].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[14].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[14].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[15].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[15].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[16].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[16].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[17].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[17].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[18].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[18].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[19].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[19].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[20].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[20].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[21].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[21].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[22].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[22].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[23].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[23].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[24].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[24].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[25].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[25].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[26].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[26].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[27].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[27].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[28].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[28].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[29].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[29].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[30].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[30].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[31].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[31].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[32].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[32].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[33].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[33].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[34].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[34].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[35].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[35].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[36].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[36].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[37].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[37].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[38].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[38].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[39].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[39].Row[1]"
+value = "1"
+[[patch]]
+entry = "Char_Death"
+property = "Data[40].Row[2]"
+value = "5000"
+[[patch]]
+entry = "Char_Death"
+property = "Data[40].Row[1]"
+value = "1"
+
+# Ice skeletons: level 1, ignore player level -> melt instantly.
+[[patch]]
+entry = "IceSkeleton_DLC"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_DLC"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "IceSkeleton_Soldier_DLC"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_Soldier_DLC"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "IceSkeleton_Champion_DLC"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_Champion_DLC"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "IceSkeleton_DLC_NoXP"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_DLC_NoXP"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "IceSkeleton_Soldier_DLC_NoXP"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_Soldier_DLC_NoXP"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "IceSkeleton_Champion_DLC_NoXP"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "IceSkeleton_Champion_DLC_NoXP"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "Ice_Skeleton_DLC_DragonMinion"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "Ice_Skeleton_DLC_DragonMinion"
+property = "ShouldMatchPlayerLevel"
+value = "false"
+[[patch]]
+entry = "Ice_Skeleton_DLC_Stationary"
+property = "Level"
+value = "1"
+[[patch]]
+entry = "Ice_Skeleton_DLC_Stationary"
+property = "ShouldMatchPlayerLevel"
+value = "false"

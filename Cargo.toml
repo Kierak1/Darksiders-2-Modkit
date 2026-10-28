@@ -1,0 +1,12 @@
+[package]
+name = "ds2-modkit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flate2 = "1"
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"
+eframe = { version = "0.36", default-features = false, features = ["glow", "default_fonts"] }
+rfd = "0.17"
+thiserror = "2.0.21"

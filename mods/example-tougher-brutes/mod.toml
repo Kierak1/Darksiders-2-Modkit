@@ -1,0 +1,21 @@
+name = "example: tougher brutes"
+
+[[patch]]
+entry = "Brute"
+property = "ExperienceValue"
+value = "100"
+
+[[patch]]
+entry = "Brute"
+property = "ExperienceValueInc"
+value = "5"
+
+[[patch]]
+entry = "Brute"
+property = "DifficultyLevelDamageScales[3]"
+value = "3.0"
+
+[[patch]]
+entry = "Z2_LD_EncounterList"
+property = "Encounters[0].Waves[0].Spawns[0].SpawnCountMin"
+value = "10"

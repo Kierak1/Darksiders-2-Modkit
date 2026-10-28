@@ -1,0 +1,14 @@
+/target
+__pycache__/
+
+# Local game install and bulky asset payloads
+/Game/
+/mods/cj-textures/payloads/
+
+# AI/agent tooling and local session notes
+/AGENTS.md
+/opencode.json
+/.graphifyignore
+/graphify-out/
+/MODLOG.md
+/docs/
