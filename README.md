@@ -3,6 +3,17 @@
 Toolkit for modding a local, legally-owned Darksiders II Deathinitive Edition
 installation (single-player, offline).
 
+## Screenshots
+
+The modkit GUI: scan and apply `mod.toml` mods, restore the stock backups.
+
+![Modkit GUI](screenshots/modkit.png)
+
+The map editor: placed objects by class, room meshes, and per-object
+position/rotation editing.
+
+![Map editor](screenshots/map-editor.png)
+
 ## Rust toolkit
 
 Prereqs: Rust 1.9x (`cargo`). The game's `media/` folder is located
